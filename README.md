@@ -1,5 +1,4 @@
-# DSEintro
-# DSE511 — Virtual Index Card
+# DSEintro DSE511 — Virtual Index Card
 # Name: 
 Yinghao Meng  
 # Program: 
