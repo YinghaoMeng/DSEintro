@@ -1,0 +1,1 @@
+Give the trajectories of three vehicles (including a stop and go process) based on Newell's Car-following model with a bounded acceleration rate. This is the code in Python on how to derive and visualize the trajectories.
